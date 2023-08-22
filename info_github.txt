@@ -1,4 +1,4 @@
-para poder archivos de tu repo local al github
+para poner archivos de tu repo local al github
 ahora se necesita un token, se hace de la siguiente manera:
 
 1
@@ -19,3 +19,5 @@ cuando te pida luego del PUSH en la terminal
 te pedira el 	usuario	--> MoshMR
 luego el 	pass	--> (usas el token)
 
+4
+recuerda el token expira en x dias
