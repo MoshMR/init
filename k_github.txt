@@ -1,0 +1,27 @@
+para poder archivos de tu repo local al github
+ahora se necesita un token, se hace de la siguiente manera:
+
+1
+ingresar a tu cuenta de github
+
+2
+settings
+dev settings
+personal access tokens
+tokens classic
+generate new token 
+(le das los permisos q desees y la fecha de expiracion)
+
+
+3
+copias el token y lo usas de password
+cuando te pida luego del PUSH en la terminal
+te pedira el 	usuario	--> MoshMR
+luego el 	pass	--> (usas el token)
+
+
+
+nota de token	:Token1-Noc20
+vence 		:20/nov/2023
+
+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
