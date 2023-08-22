@@ -19,9 +19,3 @@ cuando te pida luego del PUSH en la terminal
 te pedira el 	usuario	--> MoshMR
 luego el 	pass	--> (usas el token)
 
-
-
-nota de token	:Token1-Noc20
-vence 		:20/nov/2023
-
-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
