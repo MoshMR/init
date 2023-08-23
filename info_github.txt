@@ -27,6 +27,14 @@ si no compila añadir lo siguiente
 
 git config --global --unset https.proxy
 
+(luego exit en la terminal la cierras y la vuelves a abrir
+asi se actualiza y ya no necesitas poner cada vez el comando)
+
+(otra posible solucion es configurar el adaptador de res con 
+DNS 
+8,8,8,8 
+8,8,4,4)
+
 y volver con:
 
 git push origin master
