@@ -29,6 +29,6 @@ git config --global --unset https.proxy
 
 y volver con:
 
-git push -u origin master
+git push origin master
 
 
