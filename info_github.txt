@@ -19,5 +19,18 @@ cuando te pida luego del PUSH en la terminal
 te pedira el 	usuario	--> MoshMR
 luego el 	pass	--> (usas el token)
 
+<<<<<<< HEAD
 4
 recuerda el token expira en x dias
+=======
+4 
+si no compila añadir lo siguiente
+
+git config --global --unset https.proxy
+
+y volver con:
+
+git push -u origin master
+
+
+>>>>>>> 4bbfbc5 (agregando solucion a error por proxy)
