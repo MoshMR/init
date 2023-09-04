@@ -30,7 +30,7 @@ git config --global --unset https.proxy
 (luego exit en la terminal la cierras y la vuelves a abrir
 asi se actualiza y ya no necesitas poner cada vez el comando)
 
-(otra posible solucion es configurar el adaptador de res con 
+(otra posible solucion es configurar el adaptador de red con 
 DNS 
 8,8,8,8 
 8,8,4,4)
@@ -38,5 +38,9 @@ DNS
 y volver con:
 
 git push origin master
+
+6
+siempre primero hacer un git pull remote origin master o main
+
 
 
